@@ -14,7 +14,7 @@ export default function Layout({ children }: LayoutProps) {
       </main>
       <footer className="bg-gray-800 text-white py-8 mt-16">
         <div className="container mx-auto px-4 text-center">
-          <p>© 2025 Bhanu Pratap Singh. All rights reserved.</p>
+          <p className="text-sm">&copy; 2025 Bhanu Pratap Singh. All rights reserved.</p>
         </div>
       </footer>
     </div>
